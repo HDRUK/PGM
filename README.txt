@@ -10,7 +10,10 @@ This code provides a modified implementation of the following:
 (https://academic.oup.com/bioinformatics/article-abstract/36/10/3192/5756207?redirectedFrom=fulltext)
 Note that this folder does not conatin the full implementation of the codes.
 Full implmentation of MIDER and PLSNET are publicly avaliable and can be downloaded from the respctive links above.
-
+Our biomarker identification strategy is based on the paper 
+“-Omics biomarker identification pipeline for translational medicine”
+https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-019-1912-5
+A github library for this work can be accessed at https://github.com/jaw-bioinf/Biomarker_Identification. 
 
 ****************************  INPUT  ******************************
 The code prompts for the following input
